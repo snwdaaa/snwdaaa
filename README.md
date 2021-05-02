@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🤓&fontSize=70&animation=none)
 
-Hello! I am a student in South Korea. I'm interested in and studying Game Programming.
+Hello! I'm an university student in South Korea. I'm interested in and studying Game Programming.
 
 ## Studying
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -15,7 +15,7 @@ Hello! I am a student in South Korea. I'm interested in and studying Game Progra
 
 ## Future Plan
 - 💪 Study
-    - <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     - 📚 Mathematics (Discrete Mathematics, Linear Algebra, Probability and Statistics)
 
