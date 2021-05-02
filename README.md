@@ -6,7 +6,7 @@ Hello! I am a student in South Korea. I'm interested in and studying Game Progra
 
 ## Studying
 - <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
-- C++
+- <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/>
 
 ## Interest
 - Main : Game & Game Programming / Music
