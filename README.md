@@ -22,7 +22,7 @@ Hello! I am a student in South Korea. I'm interested in and studying Game Progra
 
 ## Sites
 <p align="center">
-    <a href="https://kkj4818.tistory.com/">Blog</a>
-    <a href="https://www.instagram.com/snwdaaa/"><img src="https://img.shields.io/badge/Instagram-3766AB?style=flat-square&logo=InstagramlogoColor=white"/></a>
-    <a href="https://www.youtube.com/channel/UCcGO7Oxi7cYaswsPFsEZHPA"><img src="https://img.shields.io/badge/Youtube-3766AB?style=flat-square&logo=YoutubelogoColor=white"/></a>
+    <a href="https://kkj4818.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-3766AB?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+    <a href="https://www.instagram.com/snwdaaa/"><img src="https://img.shields.io/badge/Instagram-3766AB?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+    <a href="https://www.youtube.com/channel/UCcGO7Oxi7cYaswsPFsEZHPA"><img src="https://img.shields.io/badge/Youtube-3766AB?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
