@@ -1,8 +1,8 @@
 # SeungWoo Lee (@snwdaaa)
 
-//![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🤓&fontSize=70&animation=none)
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🤓&fontSize=70&animation=none)-->
 
-//Hello! I'm an university student in South Korea. I'm interested in and studying Game Programming.
+<!--Hello! I'm an university student in South Korea. I'm interested in and studying Game Programming.-->
 
 ## Studying
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
