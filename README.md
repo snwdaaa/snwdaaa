@@ -6,8 +6,7 @@
 
 ## Studying
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-- Deep Learning
-- Data Structure
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <!-- - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> -->
 
 ## Interest
@@ -16,10 +15,11 @@
 
 ## Future Plan
 - 💪 Study
-    - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
+    <!-- - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> -->
+    <!-- - <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/> -->
     - 📚 Mathematics (Discrete Mathematics, Linear Algebra, Probability and Statistics)
+    - Deep Learning
+    - Data Structure
 
 ## Sites
 <p align="center">
