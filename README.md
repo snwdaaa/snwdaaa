@@ -1,12 +1,17 @@
 # SeungWoo Lee (@snwdaaa)
+<p align="center">
+    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/master/img/client.png"></a>&nbsp
+</p>
+
 [![SeungWoo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=snwdaaa&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snwdaaa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Studying
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<!-- - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> -->
+<!-- - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> -->
+- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 ## Interest
@@ -15,11 +20,14 @@
 
 ## Future Plan
 - 💪 Study
-    <!-- - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> -->
-    <!-- - <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/> -->
+    - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Vulkan-313131?style=flat-square&logo=Vulkan&logoColor=#AC162C"/>
+    - <img src="https://img.shields.io/badge/DirectX 12-313131?style=flat-square/>
     - 📚 Mathematics (Discrete Mathematics, Linear Algebra, Probability and Statistics)
     - Data Structure
-    - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    - Algorithm
+    
 
 ## Sites
 <p align="center">
