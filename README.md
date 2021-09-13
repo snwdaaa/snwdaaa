@@ -23,7 +23,7 @@
     - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Vulkan-313131?style=flat-square&logo=Vulkan&logoColor=#AC162C"/>
-    - <img src="https://img.shields.io/badge/DirectX 12-313131?style=flat-square/>
+    - <img src="https://img.shields.io/badge/DirectX 12-313131?style=flat-square&logo=Windows/>
     - Mathematics
     - Data Structure
     - Algorithm
@@ -31,5 +31,6 @@
 
 ## Sites
 <p align="center">
-    <a href="https://kkj4818.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
+    <a href="https://kkj4818.tistory.com/"><img src="https://img.shields.io/badge/Tistory-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a> 
+    <a href="https://velog.io/@snwdaaa/"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
 </p>
