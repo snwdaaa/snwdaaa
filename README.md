@@ -1,18 +1,17 @@
 # SeungWoo Lee (@snwdaaa)
+[![SeungWoo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=snwdaaa&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🤓&fontSize=70&animation=none)-->
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snwdaaa)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--Hello! I'm an university student in South Korea. I'm interested in and studying Game Programming.-->
 
 ## Studying
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <!-- - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> -->
 
-<!--
+
 ## Interest
-- Main : Game & Game Programming / Music
+- Main : Game & Game Programming / Computer Graphics
 - Side : Computer Vision / Deep Learning
--->
 
 ## Future Plan
 - 💪 Study
@@ -25,6 +24,4 @@
 ## Sites
 <p align="center">
     <a href="https://kkj4818.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
-    <a href="https://www.instagram.com/snwdaaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-    <a href="https://www.youtube.com/channel/UCcGO7Oxi7cYaswsPFsEZHPA"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
