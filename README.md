@@ -1,5 +1,7 @@
 # SeungWoo Lee (@snwdaaa)
 <p align="center">
+    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/master/img/intro.png">Game Programmer Roadmap Intro</a>&nbsp
+    |
     <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/master/img/client.png">Client Game Programmer Roadmap</a>&nbsp
 </p>
 
