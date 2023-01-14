@@ -1,9 +1,11 @@
 # SeungWoo Lee (@snwdaaa)
 <p align="center">
-    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/master/img/intro.png">Game Programmer Roadmap Intro</a>&nbsp
+    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/main/img/intro-dark.png">Game Programmer Roadmap Intro</a>&nbsp
     |
-    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/master/img/client.png">Client Game Programmer Roadmap</a>&nbsp
+    <a href="https://raw.githubusercontent.com/utilForever/game-developer-roadmap/main/img/client-dark.png">Client Game Programmer Roadmap</a>&nbsp
 </p>
+
+
 
 [![SeungWoo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=snwdaaa&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
