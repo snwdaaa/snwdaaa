@@ -23,7 +23,9 @@
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## Interest
-- Main : Game & Game Programming / Computer Graphics
+- Game Development
+- 3D Game Engine
+- Computer Graphics
 
 ## Future Plan
 - 💪 Study
@@ -32,12 +34,11 @@
     - <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
     - <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=Vulkan&logoColor=white"/>
     - <img src="https://img.shields.io/badge/DirectX 12-33ce55?style=flat-square&logo=Windows&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
     
     - Mathematics
     - Physics
-    - Theories(Computer Architecture, OS, Graphics)
-    - Game AI
+    - CS Theories
+    - AI
        
 
 ## Sites
