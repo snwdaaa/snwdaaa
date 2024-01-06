@@ -43,6 +43,5 @@
 
 ## Sites
 <p align="center">
-    <a href="https://kkj4818.tistory.com/"><img src="https://img.shields.io/badge/Tistory-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a> 
     <a href="https://velog.io/@snwdaaa/"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=GitHub&logoColor=black"/></a>&nbsp
 </p>
