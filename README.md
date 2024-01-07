@@ -17,6 +17,8 @@
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 - Data Structure
 - Algorithm
+- Computer Graphics
+- <img src="https://img.shields.io/badge/DirectX 11-33ce55?style=flat-square&logo=Windows&logoColor=white"/>
 
 ## Studied
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
