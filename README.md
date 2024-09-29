@@ -12,6 +12,14 @@
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snwdaaa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=snwdaaa&count_private=true&show_icons=true&theme=dark" alt="SeungWoo Lee's GitHub stats"/>
+  </a>
+    <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snwdaaa&theme=dark" alt="Most Used Languages"/>
+  </a>
+    <br>
   <a href="https://solved.ac/kkj4818">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkj4818" alt="Solved.ac 프로필"/>
   </a>
