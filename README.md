@@ -44,9 +44,10 @@
 -->
 
 ## Interest
-- Game Development
-- 3D Game Engine
 - Computer Graphics
+- Real-Time Rendering
+- 3D Game Engine
+- Game Development
   
 <!--
 ## Future Plan
